@@ -2,8 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I study computer engineering
 - 🌱 I have a degree in civil engineering
 - 👯 My contact: viniciuslopesgobbi@gmail.com
