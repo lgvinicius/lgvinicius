@@ -7,13 +7,7 @@
 - :D My contact: viniciuslopesgobbi@gmail.com
 
 
-<div>
-  <a href="https://github.com/lgvinicius">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=lgvinicius&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
- 
 
-  
-</div>
  <br>
 <div>  align="center"> 
   <div style="display: inline_block"><br>
