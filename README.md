@@ -4,7 +4,7 @@
 
 - 🔭 I study computer engineering
 - 🌱 I have a degree in civil engineering
-- 👯 My contact: viniciuslopesgobbi@gmail.com
+- :D My contact: viniciuslopesgobbi@gmail.com
 
 <div>
   <a href="https://github.com/lgvinicius">
